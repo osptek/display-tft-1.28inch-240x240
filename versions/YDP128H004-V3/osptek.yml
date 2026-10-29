@@ -1,0 +1,10 @@
+id: YDP128H004-V3
+category: displays
+size: "1.28"
+panel: tft
+resolution: 240x240
+interface: [spi]
+driver: GC9A01
+touch: null
+outline: 35.6 x 37.74 mm
+active_area: "Φ32.4 mm"

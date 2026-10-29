@@ -1,0 +1,10 @@
+id: YDP128HT001-V3
+category: displays
+size: "1.28"
+panel: tft
+resolution: 240x240
+interface: [spi, i2c]
+driver: GC9A01
+touch: CST816D
+outline: 38.85 x 39.43 x 2.68 mm
+active_area: "Φ32.4 mm"
